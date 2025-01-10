@@ -1,6 +1,6 @@
-668f16e6db936c0c31176981362106c6 *DESCRIPTION
+efa47c90eacf5681a9d02409ceb5c89b *DESCRIPTION
 2604045e1ee9ba6b4eee5b1c6a2ecf93 *NAMESPACE
-7c27829957caee84dd3dc907eb34feb8 *NEWS.md
+d71d18b24d6501db3c64203e136dcd3b *NEWS.md
 60ecba907ede034334519cbe1c46c21f *R/hasi_bsa_to_ordinal.R
 b617927a2f9dd91ebaa8e9793584027a *R/hasi_r_num.R
 4ba7d2e5e717975bf5098b79264fcedc *R/hiscr.R
@@ -8,7 +8,7 @@ b617927a2f9dd91ebaa8e9793584027a *R/hasi_r_num.R
 a1dbb723dcbcc73152169f4f54af492e *R/hs_pga_num.R
 4ef1f2e9210907923e22fa2a71c6f089 *R/ihs4_char.R
 e17f5d1dc3e76389d805e65d038c8cc7 *R/ihs4_num.R
-f0b0bd19ca03b19ee8b7e74105ac7282 *README.md
+72353ed903707ad7f0dc009bf6c11e23 *README.md
 1444c2c810b5b3a4ddef4b8d5751e471 *inst/WORDLIST
 96d8ceda1c8f878f6698745c8393460f *man/hasi_bsa_to_ordinal.Rd
 435295a7d71cc750393ff058ebbe2e8d *man/hasi_r_num.Rd
